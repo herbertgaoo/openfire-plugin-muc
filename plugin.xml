@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<!-- Main plugin class  -->
+	<class>com.muc.plugin.MUCPersistencePlugin</class>
+	<!-- Plugin meta-data -->
+	<name>SimplePlugin</name>
+	<author>www.mesoftware.cn</author>
+ 
+	<version>1.0</version>
+	<date>15/11/2014</date>
+	<url>http://localhost:9090/openfire/plugins.jsp</url>
+	<minServerVersion>3.4.1</minServerVersion>
+	<licenseType>gpl</licenseType>
+ 
+	<adminconsole>    
+    </adminconsole>
+</plugin>
